@@ -1,7 +1,8 @@
-<h1 align="center"> ChoiRaYeonm</h1>
+<h1 align="center"> ChoiRaYeon</h1>
 
 <h3>👋</h3>
 Hi there! I'm developer using python.
+
 
 I love hiking, traveling, drinking coffee and driving.🚗✈☕
 
