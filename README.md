@@ -7,7 +7,6 @@ Hi there! I'm developer using python.
 I love hiking, traveling, drinking coffee and driving.🚗✈☕
 
 <h3>💻 Research Interests</h3>
-<img src="https://img.shields.io/badge/Research%20Interests-5D3A7A?style=flat-square&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <ul>
   <li><strong>Data Science</strong>.</li>
   <li><strong>LLM Research </strong></li>
